@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea
+*.pyc
+blind_watermark.egg-info
+build
+.vscode
+.DS_Store
+
